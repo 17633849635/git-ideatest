@@ -8,6 +8,6 @@ package com.atguigu.liylin;
  **/
 public class TeatDemo {
     public static void main(String[] args) {
-
+        System.out.println("hello");
     }
 }
