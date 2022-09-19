@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6a6822a9-4217-45a6-9db3-66eb56a04097" name="Changes" comment="hot-fix-test" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="hot-fix" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\IDEA temp\install\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../IDEA temp/install/apache-maven-3.8.4" />
+        <option name="userSettingsFile" value="D:\IDEA temp\install\apache-maven-3.8.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2EwdSwIITBl7i8uKKSJqTK8FDcO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.splitter.proportion" value="0.25254583" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\詹姆斯李\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a6822a9-4217-45a6-9db3-66eb56a04097" name="Changes" comment="" />
+      <created>1663510587438</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663510587438</updated>
+      <workItem from="1663510588768" duration="4367000" />
+      <workItem from="1663515244772" duration="1028000" />
+      <workItem from="1663592666603" duration="1133000" />
+    </task>
+    <task id="LOCAL-00001" summary="创建项目">
+      <created>1663510693615</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663510693615</updated>
+    </task>
+    <task id="LOCAL-00002" summary="升级项目 version one">
+      <created>1663510745945</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663510745945</updated>
+    </task>
+    <task id="LOCAL-00003" summary="升级项目 version two">
+      <created>1663510788984</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663510788984</updated>
+    </task>
+    <task id="LOCAL-00004" summary="hot-fix">
+      <created>1663513023924</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663513023924</updated>
+    </task>
+    <task id="LOCAL-00005" summary="版本">
+      <created>1663513279517</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663513279517</updated>
+    </task>
+    <task id="LOCAL-00006" summary="回滚版本">
+      <created>1663513682435</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663513682435</updated>
+    </task>
+    <task id="LOCAL-00007" summary="版本二222222222">
+      <created>1663514357973</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1663514357973</updated>
+    </task>
+    <task id="LOCAL-00008" summary="版本二11111111111">
+      <created>1663514394718</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1663514394718</updated>
+    </task>
+    <task id="LOCAL-00009" summary="版本二222222222222222">
+      <created>1663514563566</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1663514563566</updated>
+    </task>
+    <task id="LOCAL-00010" summary="版本一111111111111">
+      <created>1663514615712</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1663514615712</updated>
+    </task>
+    <task id="LOCAL-00011" summary="版本三">
+      <created>1663514724524</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1663514724524</updated>
+    </task>
+    <task id="LOCAL-00012" summary="3">
+      <created>1663514841702</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1663514841702</updated>
+    </task>
+    <task id="LOCAL-00013" summary="3">
+      <created>1663514965385</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1663514965385</updated>
+    </task>
+    <task id="LOCAL-00014" summary="3">
+      <created>1663515033085</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1663515033085</updated>
+    </task>
+    <task id="LOCAL-00015" summary="三">
+      <created>1663515132159</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1663515132159</updated>
+    </task>
+    <task id="LOCAL-00016" summary="三">
+      <created>1663515181966</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1663515181966</updated>
+    </task>
+    <task id="LOCAL-00017" summary="三">
+      <created>1663515389946</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1663515389946</updated>
+    </task>
+    <task id="LOCAL-00018" summary="hot-fix2">
+      <created>1663515472695</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1663515472695</updated>
+    </task>
+    <task id="LOCAL-00019" summary="hot-fix2">
+      <created>1663515525711</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1663515525711</updated>
+    </task>
+    <task id="LOCAL-00020" summary="33333">
+      <created>1663515573219</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1663515573219</updated>
+    </task>
+    <task id="LOCAL-00021" summary="升级项目 version third">
+      <created>1663594750877</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1663594750877</updated>
+    </task>
+    <task id="LOCAL-00022" summary="升级项目 version third1">
+      <created>1663594936140</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1663594936140</updated>
+    </task>
+    <task id="LOCAL-00023" summary="hot-fix-test">
+      <created>1663595034525</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1663595034525</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="hot-fix" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="创建项目" />
+    <MESSAGE value="升级项目 version one" />
+    <MESSAGE value="升级项目 version two" />
+    <MESSAGE value="hot-fix" />
+    <MESSAGE value="版本" />
+    <MESSAGE value="回滚版本" />
+    <MESSAGE value="版本二222222222" />
+    <MESSAGE value="版本二11111111111" />
+    <MESSAGE value="版本二222222222222222" />
+    <MESSAGE value="版本一111111111111" />
+    <MESSAGE value="版本三" />
+    <MESSAGE value="3" />
+    <MESSAGE value="三" />
+    <MESSAGE value="hot-fix2" />
+    <MESSAGE value="33333" />
+    <MESSAGE value="升级项目 version third" />
+    <MESSAGE value="升级项目 version third1" />
+    <MESSAGE value="hot-fix-test" />
+    <option name="LAST_COMMIT_MESSAGE" value="hot-fix-test" />
+  </component>
+</project>
