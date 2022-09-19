@@ -14,5 +14,7 @@ public class TeatDemo {
         System.out.println(3333333);
         System.out.println("master-test");
         System.out.println("push test");
+        
+        System.out.println("remote---push test");
     }
 }
